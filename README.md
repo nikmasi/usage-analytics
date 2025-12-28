@@ -55,5 +55,5 @@ This plugin collects usage statistics of almost all IDE actions, highlights the 
 <p float="left">
   <img src="screenshots/top_n.png" width="200" alt="Top N actions" />
   <img src="screenshots/all_actions.png" width="200" alt="All actions" />
-  <img src="screenshots/settings.png" width="200" alt="Settings" />
+  <img src="screenshots/settings.png" width="400" alt="Settings" />
 </p>
